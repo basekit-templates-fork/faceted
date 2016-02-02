@@ -1,8 +1,8 @@
 {
-    "name":"Facet",
+    "name":"Faceted",
     "widgetVersion": 2,
-    "thumbnail":"facet.png",
-    "screenshot":"facet-screenshot.jpg",
+    "thumbnail":"faceted.png",
+    "screenshot":"faceted-screenshot.jpg",
     "templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
